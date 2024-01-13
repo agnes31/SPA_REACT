@@ -1,0 +1,6 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Dans src on crée style/tailwind.css et on importe tous les modules que l'on recherche
+Dans index.css on importe tailwind.css (on efface le code par défaut) */
